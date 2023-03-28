@@ -1,0 +1,13 @@
+nginx/agent
+nginx/njs
+nginx/unit
+nginx/unit-docs
+nginx/nginx-tests
+nginx/docker-extension
+nginx/nginx
+nginx/nginx-quic-qns
+nginx/homebrew-unit
+nginx/njs-examples
+nginx/unit-cli
+nginx/unit-examples
+nginx/nginx-releases
